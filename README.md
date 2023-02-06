@@ -8,6 +8,7 @@ Development of a web-based task management application for teams, you can use Tr
 * Add tasks to these projects,
 * Assign tasks to team members
 * Track the progress of tasks with status
+* Filter, sorting and pagination
 
 ##### Technologies and utilities that should be used:
 
@@ -31,6 +32,7 @@ Développement d'une application de gestion de tâches en ligne pour les équipe
 * Ajouter des tâches à ces projets,
 * Assigner des tâches à des membres d'équipe
 * Suivre l'avancement des tâches avec un statut
+* Filtre, tri et pagination
 
 ### Technologies et utilitaires à utiliser :
 
