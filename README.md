@@ -18,4 +18,23 @@ Development of a web-based task management application for teams, you can use Tr
 * Docker
 * PostgreSQL
 
-##### The most important of this test is to write a clean code with a superation of concerns and try to use the most of each framework
+##### The most important of this test is to write a clean and readable code.
+
+
+## Test technique Laravel
+Développement d'une application de gestion de tâches en ligne pour les équipes, vous pouvez utiliser Trello comme inspiration.
+
+### L'application permettrait de :
+
+* Authentifier
+* Créer des projets,
+* Ajouter des tâches à ces projets,
+* Assigner des tâches à des membres d'équipe
+* Suivre l'avancement des tâches avec un statut
+* Technologies et utilitaires à utiliser :
+* Laravel (API REST)
+* JWT (Auth)
+* Docker
+* PostgreSQL
+
+##### Le plus important de ce test est d'écrire un code propre et lisible.
