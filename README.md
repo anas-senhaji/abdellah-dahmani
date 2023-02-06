@@ -3,13 +3,13 @@ Development of a web-based task management application for teams, you can use Tr
 
 ### The application would allow to:
 
-* authenticate
-* create projects,
-* add tasks to these projects,
-* assign tasks to team members
-* track the progress of tasks with status
+* Authenticate
+* Create projects,
+* Add tasks to these projects,
+* Assign tasks to team members
+* Track the progress of tasks with status
 
-##### technologies and utilities that should be used:
+##### Technologies and utilities that should be used:
 
 * Laravel (REST API)
 * JWT (Auth)
@@ -18,4 +18,4 @@ Development of a web-based task management application for teams, you can use Tr
 * Docker
 * PostgreSQL
 
-##### the most important of this test is to write a clean code with a superation of concerns and try to use the most of each framework
+##### The most important of this test is to write a clean code with a superation of concerns and try to use the most of each framework
